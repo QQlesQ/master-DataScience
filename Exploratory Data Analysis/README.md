@@ -6,7 +6,7 @@ Exploratory Data Analysis for Employee Future Prediction dataset from Kaggle (ht
 
 - The model with the best Accuracy is Bagging Classifier, followed by Decision Tree Classifier.
 - Models with the best Precision are Bagging Classifier, followed by Random Forest Classifier.
-- As an average of both quite good Accuracy and Classifier, Bagging Classifier performed good.
+- As an average of both quite good Accuracy and Precision , Bagging Classifier performed good.
 
 Models used:  
 - Logistic Regression 
