@@ -5,3 +5,4 @@ Here are some projects done for my Data Science Master's program:
 - [Natural Language Processing](https://github.com/AndreiCuculescu/master-DataScience/tree/main/Natural%20Language%20Processing)
 - [Practical Machine Learning](https://github.com/AndreiCuculescu/master-DataScience/tree/main/Practical%20Machine%20Learning)
 - [Big Data](https://github.com/AndreiCuculescu/master-DataScience/tree/main/Big%20Data)
+- [DataVisualization](https://github.com/QQlesQ/master-DataScience/tree/main/Data-Visualization)
