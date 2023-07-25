@@ -6,3 +6,4 @@ Here are some projects done for my Data Science Master's program:
 - [Practical Machine Learning](https://github.com/AndreiCuculescu/master-DataScience/tree/main/Practical%20Machine%20Learning)
 - [Big Data](https://github.com/AndreiCuculescu/master-DataScience/tree/main/Big%20Data)
 - [Data Visualization](https://github.com/QQlesQ/master-DataScience/tree/main/Data-Visualization)
+- [Deep Learning](https://github.com/QQlesQ/master-DataScience/tree/main/Deep%20Learning)
