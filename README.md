@@ -8,4 +8,4 @@ Here are some projects done for my Data Science Master's program:
 - [Data Visualization](https://github.com/QQlesQ/master-DataScience/tree/main/Data-Visualization)
 - [Deep Learning](https://github.com/QQlesQ/master-DataScience/tree/main/Deep%20Learning)
 - [Statistics for Data Science](https://github.com/QQlesQ/master-DataScience/tree/main/Statistics%20for%20Data%20Science)
-= [NLP-1](https://github.com/QQlesQ/master-DataScience/tree/main/NLP-1)
+-  [NLP-1](https://github.com/QQlesQ/master-DataScience/tree/main/NLP-1)
